@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Seekingcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekingcat)](https://github.com/seekingcat/github-readme-stats)
-[!(https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false)]<br/>
+[https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false]
 
 
 - 📫 How to reach me: Email me at mail@theseekingcat.com
