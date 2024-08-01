@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Seekingcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekingcat)](https://github.com/seekingcat/github-readme-stats)
+[![Seekingcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekingcat&theme=cobalt&show_icons=true)](https://github.com/seekingcat/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekingcat)](https://github.com/seekingcat/github-readme-stats)
+<div align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekingcat&layout=compact)](https://github.com/seekingcat/github-readme-stats)</div>
 
 
 
