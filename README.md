@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Mel 👋
+
+Otherwise known as the Seekingcat, I am a passionate Front-end Developer, driven by a curiosity for technology and a love for people. As an actor and organisational psychologist, my passion for software engineering drives my desire to explore new ideas, and find effective solutions that technology can provide.
+
+- 🌱 I’m currently learning Back End development
+- 👯 I’m looking to collaborate on Open Source projects
 
 <!--
-**seekingcat/seekingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,14 +14,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 [![Seekingcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekingcat&theme=cobalt&show_icons=true)](https://github.com/seekingcat/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekingcat&layout=compact)](https://github.com/seekingcat/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false" align="center">
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,mongodb)](https://skillicons.dev)
