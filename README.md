@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seekingcat&theme=tokyonight&hide_border=false">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekingcat&layout=compact)](https://github.com/seekingcat/github-readme-stats)
 
-
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,mongodb)](https://skillicons.dev)
 
 - 📫 How to reach me: Email me at mail@theseekingcat.com
 - 😄 Pronouns: She/her
