@@ -1,6 +1,6 @@
 ## Hi there, I'm Mel 👋
 
-Otherwise known as the Seekingcat, I am a passionate Front-end Developer, driven by a curiosity for technology and a love for people. As an actor and organisational psychologist, my passion for software engineering drives my desire to explore new ideas, and find effective solutions that technology can provide.
+Otherwise known as the Seekingcat, I am a passionate Front-end Developer, driven by a curiosity for technology and a love for people. As an actor and organisational psychologist, my passion for software engineering drives my desire to explore new ideas, and provide effective solutions with technology.
 
 - 🌱 I’m currently learning Back End development
 - 👯 I’m looking to collaborate on Open Source projects
