@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs,mongodb)](https://skillicons.dev)
 
 - 📫 How to reach me: Email me at mail@theseekingcat.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a working actor as well, about to start a new play at the Old Vic. Also recently filmed something fun for the BBC, keep an eye out for a release date for the series.
+- 😄 Pronouns: She/her/they
+- ⚡ Fun fact: I'm a working actor as well, currently filming something for Paramount and have an exciting theatre project coming up in the summertime.
